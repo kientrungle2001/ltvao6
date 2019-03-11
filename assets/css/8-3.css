@@ -1,0 +1,72 @@
+#ontienganh {
+	background:#f4fecf;
+}
+#ontienganh .heading {
+	color: #2c9a42 !important;
+	text-shadow: 
+	-2px -2px 0 #fff,  
+	2px -2px 0 #fff,
+	-2px 2px 0 #fff,
+		2px 2px 0 #fff,
+		5px 5px 1px #2c9a42;
+}
+#tonghop {
+	background:linear-gradient(#f4fecf, #fbeef2) ;
+}
+#tonghop .heading {
+	color: #ec1783 !important;
+	text-shadow: 
+	-2px -2px 0 #fff,  
+	2px -2px 0 #fff,
+	-2px 2px 0 #fff,
+		2px 2px 0 #fff,
+		5px 5px 1px #ec1783;
+}
+.bg3, #thithu {
+	background: #fbeef2;
+}
+
+#thithu .heading {
+	color: #ff0000 !important;
+	text-shadow: 
+	-2px -2px 0 #fff,  
+	2px -2px 0 #fff,
+	-2px 2px 0 #fff,
+		2px 2px 0 #fff,
+		5px 5px 1px #ff0000;
+}
+.bg3 .heading {
+	color: #ffce00 !important;
+	text-shadow: 
+	-2px -2px 0 #fff,  
+	2px -2px 0 #fff,
+	-2px 2px 0 #fff,
+		2px 2px 0 #fff,
+		5px 5px 1px #ffce00;
+}
+.bg4 {
+	background: url('/assets/images/background3.png.jpg');
+	background-size: 100% auto;
+}
+.bg4 .heading {
+	color: #567e25 !important;
+	text-shadow: 
+	-1px -1px 0 #000,  
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.box-thithu, .box-thithu .head-box,
+.box-tdn, .box-tdn .head-tdn{
+	background: #FF354C !important;
+	
+}
+
+.box-thithu, .box-tdn {
+	box-shadow: 0px 5px 3px #555;
+}
+
+.box-thithu a, .box-tdn a {
+	color: #fff !important;
+}

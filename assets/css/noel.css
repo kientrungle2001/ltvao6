@@ -1,0 +1,37 @@
+#tonghop, #ontienganh {
+	background: #ae3021;
+}
+
+#practice {
+	background: linear-gradient(#e0fcf5, #fff);
+}
+
+#thithu {
+	background: #fff;
+}
+
+.box-thithu {
+	background: #6DD244 !important;
+}
+
+#thithu .heading {
+	color: #ae3021 !important;
+}
+
+.head-box {
+	background: orange !important;
+}
+
+.head-box a {
+	color: #fff;
+}
+
+
+/*
+.footer-gradient {
+	background: url('/assets/images/footer-web.png') !important;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	background-position: top;
+}
+*/
